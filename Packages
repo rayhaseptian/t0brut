@@ -1,0 +1,13 @@
+Package: com.rayhaseptian.lookdown
+Name: LookDown
+Version: 0.1-2
+Architecture: iphoneos-arm
+Description: Simple branding tweak for lockscreen
+Maintainer: Rayha Septian
+Author: Rayha Septian
+Section: Tweaks
+Filename: com.rayhaseptian.lookdown_0.1-2+debug_iphoneos-arm.deb
+Size: 2048
+MD5sum: dummy
+SHA1: dummy
+SHA256: dummy
