@@ -223,3 +223,19 @@ Description: Keyboard ala VisionOS (Glass Mode).
 Author: Rayhahahahahahaha
 Name: VisionKB
 
+Package: com.rayhahahahahahaha.visionkb
+Version: 0.0.1-9+debug
+Architecture: iphoneos-arm64
+Maintainer: Rayhahahahahahaha
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.rayhahahahahahaha.visionkb_0.0.1-9+debug_iphoneos-arm64.deb
+Size: 6970
+MD5sum: 5ce753ebee395156e1ca9d2ed6bda991
+SHA1: b24f16b1c10028b500208271a422d61dc0cb7b7f
+SHA256: 68fde2a7f61cc77658bda5773a09f018240dd3c52bb8f074e5e929a1d378082b
+Section: Tweaks
+Description: Keyboard ala VisionOS (Glass Mode).
+Author: Rayhahahahahahaha
+Name: VisionKB
+
