@@ -175,3 +175,19 @@ Description: Navigasi halaman menggunakan Tombol Volume
 Author: Rayhahahahahahaha
 Name: VolTab
 
+Package: com.rayhahahahahahaha.voltab
+Version: 0.0.1-2+debug
+Architecture: iphoneos-arm64
+Maintainer: Rayhahahahahahaha
+Installed-Size: 176
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.rayhahahahahahaha.voltab_0.0.1-2+debug_iphoneos-arm64.deb
+Size: 8250
+MD5sum: 2c1299159c336c695a99e0d543478d9a
+SHA1: 1f69850cbe5ee894a116674f94113c3cc025a517
+SHA256: 2f4754f4da2550462ebcfd6a3d0c7e3340b5459dda22f7a1ce059882462e5aa7
+Section: Tweaks
+Description: Navigasi halaman menggunakan Tombol Volume
+Author: Rayhahahahahahaha
+Name: VolTab
+
