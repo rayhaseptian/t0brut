@@ -63,3 +63,19 @@ Author: Rayhahahahahahaha
 Name: ByeIGPansos
 Tested: iOS 16.5 (A12+ arm64e). Support: iOS 15 - 16.x (Rootless/Dopamine).
 
+Package: com.rayhahahahahahaha.byeigpansos
+Version: 0.0.2-3+debug
+Architecture: iphoneos-arm64
+Maintainer: Rayhahahahahahaha
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.rayhahahahahahaha.byeigpansos_0.0.2-3+debug_iphoneos-arm64.deb
+Size: 4598
+MD5sum: 83ed2b58f21ed9276ab9c577243335c3
+SHA1: 89e5079bf40209eeb510f49df7c7b11ff9a22be8
+SHA256: 54be39e6074c070e8f1aca311b98c059582659ee01b0682ab7463001c4b2d75a
+Section: Tweaks
+Description: Anti Pansos. Menonaktifkan fitur upload Story & Feed Instagram. Tested: iOS 16.5 (A12+ arm64e). Support: iOS 15 - 16.x (Rootless/Dopamine).
+Author: Rayhahahahahahaha
+Name: ByeIGPansos
+
