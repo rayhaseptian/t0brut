@@ -175,3 +175,19 @@ Description: Ubah style Dock bawah jadi Floating Liquid Glass.
 Author: Rayhahahahahahaha
 Name: VisionDock
 
+Package: com.rayhahahahahahaha.visiondock
+Version: 0.0.1-2+debug
+Architecture: iphoneos-arm64
+Maintainer: Rayhahahahahahaha
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.rayhahahahahahaha.visiondock_0.0.1-2+debug_iphoneos-arm64.deb
+Size: 5336
+MD5sum: 2393b5e0542ed0718f817c11c90d0e9f
+SHA1: 4b180bdfcb8348113bee05c98174dbe05e1ccc4b
+SHA256: 1b966d7b98e9c6efb82490c39539a3aaf112c41cd54c7b9a09b35dacc3230b43
+Section: Tweaks
+Description: Ubah style Dock bawah jadi Floating Liquid Glass.
+Author: Rayhahahahahahaha
+Name: VisionDock
+
