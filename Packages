@@ -46,3 +46,20 @@ Description: Tweak untuk mematikan fungsi Story Instagram. Anti Pansos.
 Author: Rayhahahahahahaha
 Name: ByeIGPansos
 
+Package: com.rayhahahahahahaha.byeigpansos
+Version: 0.0.2-2+debug
+Architecture: iphoneos-arm64
+Maintainer: Rayhahahahahahaha
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.rayhahahahahahaha.byeigpansos_0.0.2-2+debug_iphoneos-arm64.deb
+Size: 4606
+MD5sum: 0e4fe09a9925ae4e93eff65c8a5d57fe
+SHA1: 941b8dac93604dc160fe8203f38c3d6e57f986e9
+SHA256: 78a29e6254ae45434d48b33c7edb8f2b918bb292540893622e0afa6ec3579355
+Section: Tweaks
+Description: Anti Pansos. Menonaktifkan fitur upload Story & Feed Instagram.
+Author: Rayhahahahahahaha
+Name: ByeIGPansos
+Tested: iOS 16.5 (A12+ arm64e). Support: iOS 15 - 16.x (Rootless/Dopamine).
+
