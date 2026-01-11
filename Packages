@@ -191,3 +191,19 @@ Description: Scroll layar pakai tombol Volume.
 Author: Rayhahahahahahaha
 Name: VolScroll
 
+Package: com.rayhahahahahahaha.volscroll
+Version: 0.0.1-3+debug
+Architecture: iphoneos-arm64
+Maintainer: Rayhahahahahahaha
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.rayhahahahahahaha.volscroll_0.0.1-3+debug_iphoneos-arm64.deb
+Size: 5168
+MD5sum: 12687c6dc5582e3db9feb55d63e9063d
+SHA1: cd7723d84260c5dad30781570f02a4a50673857a
+SHA256: 38e14cddcd6387e4af0130898924b1ce5975cc1ae0df1e91fe5e682bf6ee238a
+Section: Tweaks
+Description: Scroll layar pakai tombol Volume.
+Author: Rayhahahahahahaha
+Name: VolScroll
+
