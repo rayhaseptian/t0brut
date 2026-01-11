@@ -79,3 +79,19 @@ Description: Anti Pansos. Menonaktifkan fitur upload Story & Feed Instagram. Tes
 Author: Rayhahahahahahaha
 Name: ByeIGPansos
 
+Package: com.rayhahahahahahaha.wacallconfirm
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm64
+Maintainer: Rayhahahahahahaha
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.rayhahahahahahaha.wacallconfirm_0.0.1-1+debug_iphoneos-arm64.deb
+Size: 4044
+MD5sum: dc3a4d6d6d0d1d3d8b60c9a70487455a
+SHA1: 9fc7d8b075bc46d92c4c2d7e6af79e3a702b4365
+SHA256: f2bd942b14bf0ba87e1e74dc034dcda0bfada3bcf404fd217bcf7211d8aebe7a
+Section: Tweaks
+Description: Mencegah kepencet nelpon di WhatsApp. Muncul alert konfirmasi.
+Author: Rayhahahahahahaha
+Name: WACallConfirm
+
