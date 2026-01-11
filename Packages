@@ -79,3 +79,19 @@ Description: Anti Pansos. Menonaktifkan fitur upload Story & Feed Instagram. Tes
 Author: Rayhahahahahahaha
 Name: ByeIGPansos
 
+Package: com.rayhahahahahahaha.nocallwa
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm64
+Maintainer: Rayhahahahahahaha
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.rayhahahahahahaha.nocallwa_0.0.1-1+debug_iphoneos-arm64.deb
+Size: 4294
+MD5sum: e853dc01961a5666c362de15b4b75d3d
+SHA1: 934fe247e90e19f8352b6a63b064febd5cc9d75f
+SHA256: 8484470b1108709393dab48c70ad37b864cb70759f9256f3dd068e980d94edce
+Section: Tweaks
+Description: Hilangkan tombol Telepon & VC di Header Chat WhatsApp. Anti Kepencet! Tested: iOS 16.5 (A12+ arm64e).
+Author: Rayhahahahahahaha
+Name: NoCallWA
+
