@@ -95,3 +95,19 @@ Description: Mencegah kepencet nelpon di WhatsApp. Muncul alert konfirmasi.
 Author: Rayhahahahahahaha
 Name: WACallConfirm
 
+Package: com.rayhahahahahahaha.wacallconfirm
+Version: 0.0.2-1+debug
+Architecture: iphoneos-arm64
+Maintainer: Rayhahahahahahaha
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.rayhahahahahahaha.wacallconfirm_0.0.2-1+debug_iphoneos-arm64.deb
+Size: 4828
+MD5sum: 0592cad90d19ea96ba65e3f764e05fb4
+SHA1: e1cb359c8cd294817a6f25c2fdfaef1c348ab813
+SHA256: d1b3e31fdcdbb86ceaa125faadef32e2fca6dd93a392e71cd9815ffb111e509d
+Section: Tweaks
+Description: Konfirmasi sebelum telepon dan video call WhatsApp. Tested: iOS 16.5 (A12+ arm64e).
+Author: Rayhahahahahahaha
+Name: WACallConfirm
+
