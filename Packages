@@ -159,3 +159,19 @@ Description: Ubah style Pop-up System jadi Liquid Glass ala VisionOS.
 Author: Rayhahahahahahaha
 Name: VisionAlerts
 
+Package: com.rayhahahahahahaha.voltab
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm64
+Maintainer: Rayhahahahahahaha
+Installed-Size: 176
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.rayhahahahahahaha.voltab_0.0.1-1+debug_iphoneos-arm64.deb
+Size: 8336
+MD5sum: e9ce9b967d90ecffcc11d9e7c5be9423
+SHA1: e95e147fe7f6fef7c0a86f124c2388abc8ab318f
+SHA256: cd7d46f5406ba48d019f28aa4770d8e67e60e87ea4bb48c37eeeb7c675b51caf
+Section: Tweaks
+Description: Navigasi halaman menggunakan Tombol Volume
+Author: Rayhahahahahahaha
+Name: VolTab
+
