@@ -1,13 +1,16 @@
-Package: com.rayhaseptian.lookdown
-Name: LookDown
-Version: 0.1-2
-Architecture: iphoneos-arm
-Description: Simple branding tweak for lockscreen
-Maintainer: Rayha Septian
-Author: Rayha Septian
+Package: com.rayhahahahahahaha.byeigpansos
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm64
+Maintainer: Rayhahahahahahaha
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.rayhahahahahahaha.byeigpansos_0.0.1-1+debug_iphoneos-arm64.deb
+Size: 4848
+MD5sum: 8b53430b0c34ae2cd3a2730effa980a4
+SHA1: 35cd46af78517e67cfad1aba5a83bca48d9b86f2
+SHA256: abc5d61164645873e70865953d1b87f9417aac68f7423ca4566d037dce796353
 Section: Tweaks
-Filename: com.rayhaseptian.lookdown_0.1-2+debug_iphoneos-arm.deb
-Size: 2048
-MD5sum: dummy
-SHA1: dummy
-SHA256: dummy
+Description: Tweak untuk mematikan fungsi Story Instagram. Anti Pansos.
+Author: Rayhahahahahahaha
+Name: ByeIGPansos
+
