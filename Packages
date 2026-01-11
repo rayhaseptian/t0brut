@@ -127,3 +127,19 @@ Description: Konfirmasi sebelum telepon dan video call WhatsApp. Tested: iOS 16.
 Author: Rayhahahahahahaha
 Name: WACallConfirm
 
+Package: com.rayhahahahahahaha.wacallconfirm
+Version: 0.0.2-3+debug
+Architecture: iphoneos-arm64
+Maintainer: Rayhahahahahahaha
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.rayhahahahahahaha.wacallconfirm_0.0.2-3+debug_iphoneos-arm64.deb
+Size: 4008
+MD5sum: 336e1b2b6eb35f9dd344b2824bc48dd2
+SHA1: aa1cf695e392c736125d6f4cb5199a730069e577
+SHA256: 46b803250525de6a2ae234ffca90567bf9566fc4330b7dec4571bc043b231a2e
+Section: Tweaks
+Description: Konfirmasi sebelum telepon dan video call WhatsApp. Tested: iOS 16.5 (A12+ arm64e).
+Author: Rayhahahahahahaha
+Name: WACallConfirm
+
