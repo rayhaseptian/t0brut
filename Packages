@@ -95,3 +95,19 @@ Description: Hilangkan tombol Telepon & VC di Header Chat WhatsApp. Anti Kepence
 Author: Rayhahahahahahaha
 Name: NoCallWA
 
+Package: com.rayhahahahahahaha.visionalerts
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm64
+Maintainer: Rayhahahahahahaha
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.rayhahahahahahaha.visionalerts_0.0.1-1+debug_iphoneos-arm64.deb
+Size: 4762
+MD5sum: cd18bd011e3cfe8661412d47b9e861fe
+SHA1: 57d9d5be48a7e492bb4c64d21808aec0b538be81
+SHA256: 4f2d0d2ed2fdc134b4f30e8a48b44eb7d51263e4b042fd343f731fc1d4f92e5c
+Section: Tweaks
+Description: Ubah style Pop-up System jadi Liquid Glass ala VisionOS.
+Author: Rayhahahahahahaha
+Name: VisionAlerts
+
