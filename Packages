@@ -79,6 +79,22 @@ Description: Anti Pansos. Menonaktifkan fitur upload Story & Feed Instagram. Tes
 Author: Rayhahahahahahaha
 Name: ByeIGPansos
 
+Package: com.rayhahahahahahaha.liquidbar
+Version: 1.0.0-1+debug
+Architecture: iphoneos-arm64
+Maintainer: Rayhahahahahahaha
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.rayhahahahahahaha.liquidbar_1.0.0-1+debug_iphoneos-arm64.deb
+Size: 5476
+MD5sum: 42b279417205a49c50f256d0f23d627b
+SHA1: fc81f7edcdf819a73da0b3071394f6c2ce944b3b
+SHA256: d21c46981d9cf1c5b5cc1434dbba903a96488d7e6fa383e2b54e743580597cff
+Section: Tweaks
+Description: Floating Glass TabBar Real.
+Author: Rayhahahahahahaha
+Name: LiquidBar
+
 Package: com.rayhahahahahahaha.nocallwa
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm64
