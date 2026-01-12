@@ -159,3 +159,19 @@ Description: Ubah style Pop-up System jadi Liquid Glass ala VisionOS.
 Author: Rayhahahahahahaha
 Name: VisionAlerts
 
+Package: com.rayhahahahahahaha.visioncc
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm64
+Maintainer: Rayhahahahahahaha
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.rayhahahahahahaha.visioncc_0.0.1-1+debug_iphoneos-arm64.deb
+Size: 5272
+MD5sum: ee5ef72962dd19906f858dbedcc8abd2
+SHA1: a210e33bbab1ffc20644dc06ef0f2686483ba71f
+SHA256: d53422c7ba6f789eb99091b0adacb1847f632d825154284a4dbf767766dccc6b
+Section: Tweaks
+Description: CC style ala VisionOS Tested: iOS 16.5 (A12+ arm64e)
+Author: Rayhahahahahahaha
+Name: VisionCC
+
