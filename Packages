@@ -127,6 +127,22 @@ Description: Floating Glass TabBar Safe.
 Author: Rayhahahahahahaha
 Name: LiquidBar
 
+Package: com.rayhahahahahahaha.liquidbar
+Version: 1.0.1-3+debug
+Architecture: iphoneos-arm64
+Maintainer: Rayhahahahahahaha
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.rayhahahahahahaha.liquidbar_1.0.1-3+debug_iphoneos-arm64.deb
+Size: 5590
+MD5sum: e35f0a368384b3623e3c7ab7c5e8ad12
+SHA1: 804b6728e04c35d34a8f0531730bf677cad22bda
+SHA256: 460b05913f3c5404ece0766878b65910a0aa39ce4982bf43499d59c4b97c74da
+Section: Tweaks
+Description: Floating Glass TabBar Safe.
+Author: Rayhahahahahahaha
+Name: LiquidBar
+
 Package: com.rayhahahahahahaha.nocallwa
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm64
