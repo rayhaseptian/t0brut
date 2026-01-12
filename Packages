@@ -95,6 +95,22 @@ Description: Hilangkan tombol Telepon & VC di Header Chat WhatsApp. Anti Kepence
 Author: Rayhahahahahahaha
 Name: NoCallWA
 
+Package: com.rayhahahahahahaha.puffykeys
+Version: 1.0.0-1+debug
+Architecture: iphoneos-arm64
+Maintainer: Rayhahahahahahaha
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.rayhahahahahahaha.puffykeys_1.0.0-1+debug_iphoneos-arm64.deb
+Size: 4956
+MD5sum: 5c689ba3e67494fac716e4f77f3ad5fb
+SHA1: d0002210d574f734f3d12e2a6ae8d94a4892414b
+SHA256: b8e9f5fb3c946dfbb84c3cf5bd062f9e4433b597fb55c613208996ca1c67a862
+Section: Tweaks
+Description: Soft Puffy Keyboard Style.
+Author: Rayhahahahahahaha
+Name: PuffyKeys
+
 Package: com.rayhahahahahahaha.visionalerts
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm64
