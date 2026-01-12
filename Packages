@@ -95,38 +95,6 @@ Description: Hilangkan tombol Telepon & VC di Header Chat WhatsApp. Anti Kepence
 Author: Rayhahahahahahaha
 Name: NoCallWA
 
-Package: com.rayhahahahahahaha.puffykeys
-Version: 1.0.0-1+debug
-Architecture: iphoneos-arm64
-Maintainer: Rayhahahahahahaha
-Installed-Size: 168
-Depends: mobilesubstrate
-Filename: ./debs/com.rayhahahahahahaha.puffykeys_1.0.0-1+debug_iphoneos-arm64.deb
-Size: 4956
-MD5sum: 5c689ba3e67494fac716e4f77f3ad5fb
-SHA1: d0002210d574f734f3d12e2a6ae8d94a4892414b
-SHA256: b8e9f5fb3c946dfbb84c3cf5bd062f9e4433b597fb55c613208996ca1c67a862
-Section: Tweaks
-Description: Soft Puffy Keyboard Style.
-Author: Rayhahahahahahaha
-Name: PuffyKeys
-
-Package: com.rayhahahahahahaha.puffykeys
-Version: 1.0.0-2+debug
-Architecture: iphoneos-arm64
-Maintainer: Rayhahahahahahaha
-Installed-Size: 172
-Depends: mobilesubstrate
-Filename: ./debs/com.rayhahahahahahaha.puffykeys_1.0.0-2+debug_iphoneos-arm64.deb
-Size: 5270
-MD5sum: 84263760ee029fae9ff5ca4dc462f32e
-SHA1: 53a33271d75b917597022c8bd6ae49505c93eee8
-SHA256: a733fe29a54f8120e1cb18e638a4a9983f0d6787dd0372b5cede6ded4d556b3b
-Section: Tweaks
-Description: Soft Puffy Keyboard Style.
-Author: Rayhahahahahahaha
-Name: PuffyKeys
-
 Package: com.rayhahahahahahaha.visionalerts
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm64
