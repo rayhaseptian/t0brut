@@ -175,3 +175,19 @@ Description: CC style ala VisionOS Tested: iOS 16.5 (A12+ arm64e)
 Author: Rayhahahahahahaha
 Name: VisionCC
 
+Package: com.rayhahahahahahaha.visioncc
+Version: 0.0.1-2+debug
+Architecture: iphoneos-arm64
+Maintainer: Rayhahahahahahaha
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.rayhahahahahahaha.visioncc_0.0.1-2+debug_iphoneos-arm64.deb
+Size: 5908
+MD5sum: d8f87122422242a87e1f6469fb8d3142
+SHA1: b6a7e0b4fb52bb2fc8b636c441cfa19ec5b044c3
+SHA256: eba967a857c2f102216c936d8bacc4ab727b08a2397c846270509c10f8d9bad1
+Section: Tweaks
+Description: CC style ala VisionOS Tested: iOS 16.5 (A12+ arm64e)
+Author: Rayhahahahahahaha
+Name: VisionCC
+
