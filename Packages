@@ -95,6 +95,22 @@ Description: Hilangkan tombol Telepon & VC di Header Chat WhatsApp. Anti Kepence
 Author: Rayhahahahahahaha
 Name: NoCallWA
 
+Package: com.rayhahahahahahaha.threadsdl
+Version: 1.0.0-1+debug
+Architecture: iphoneos-arm64
+Maintainer: Rayhahahahahahaha
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.rayhahahahahahaha.threadsdl_1.0.0-1+debug_iphoneos-arm64.deb
+Size: 7352
+MD5sum: 5cf9bccc1c26e060f40e197f9b3b5b82
+SHA1: 8d7239a0f74c45530026b817f75324f2f683f268
+SHA256: 0425423a295de9eb2fa93d8696cebab4cf8fa60c8abea0365bcdd6c69d4980ed
+Section: Tweaks
+Description: Tap & Hold to Download Media in Threads.
+Author: Rayhahahahahahaha
+Name: ThreadsDL
+
 Package: com.rayhahahahahahaha.visionalerts
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm64
