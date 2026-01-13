@@ -95,54 +95,6 @@ Description: Hilangkan tombol Telepon & VC di Header Chat WhatsApp. Anti Kepence
 Author: Rayhahahahahahaha
 Name: NoCallWA
 
-Package: com.rayhahahahahahaha.threadsdl
-Version: 1.0.0-1+debug
-Architecture: iphoneos-arm64
-Maintainer: Rayhahahahahahaha
-Installed-Size: 172
-Depends: mobilesubstrate
-Filename: ./debs/com.rayhahahahahahaha.threadsdl_1.0.0-1+debug_iphoneos-arm64.deb
-Size: 7352
-MD5sum: 5cf9bccc1c26e060f40e197f9b3b5b82
-SHA1: 8d7239a0f74c45530026b817f75324f2f683f268
-SHA256: 0425423a295de9eb2fa93d8696cebab4cf8fa60c8abea0365bcdd6c69d4980ed
-Section: Tweaks
-Description: Tap & Hold to Download Media in Threads.
-Author: Rayhahahahahahaha
-Name: ThreadsDL
-
-Package: com.rayhahahahahahaha.threadsdl
-Version: 1.0.0-2+debug
-Architecture: iphoneos-arm64
-Maintainer: Rayhahahahahahaha
-Installed-Size: 176
-Depends: mobilesubstrate
-Filename: ./debs/com.rayhahahahahahaha.threadsdl_1.0.0-2+debug_iphoneos-arm64.deb
-Size: 10194
-MD5sum: bfb2e2798580f26fc3ef18c597c4828e
-SHA1: 1c74686d9bd7fa86a57342620da8f6b171cfc2e0
-SHA256: 7d18cf5c93d5572ace51c54651a82c5a814e42501e3d61729b49e5a98ff57878
-Section: Tweaks
-Description: Tap & Hold to Download Media in Threads.
-Author: Rayhahahahahahaha
-Name: ThreadsDL
-
-Package: com.rayhahahahahahaha.threadsdl
-Version: 1.0.0-3+debug
-Architecture: iphoneos-arm64
-Maintainer: Rayhahahahahahaha
-Installed-Size: 176
-Depends: mobilesubstrate
-Filename: ./debs/com.rayhahahahahahaha.threadsdl_1.0.0-3+debug_iphoneos-arm64.deb
-Size: 10060
-MD5sum: daf6abf46b2ddfd63b6784d3b82e6d48
-SHA1: 0ea8e1e8c46a7c71f0b21e655a41d7e632041077
-SHA256: df5a6e4bba84d01866b285520c5769705f6edb74e28b05b966965c8b0a927ce3
-Section: Tweaks
-Description: Tap & Hold to Download Media in Threads.
-Author: Rayhahahahahahaha
-Name: ThreadsDL
-
 Package: com.rayhahahahahahaha.visionalerts
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm64
