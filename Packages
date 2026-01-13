@@ -127,6 +127,22 @@ Description: Tap & Hold to Download Media in Threads.
 Author: Rayhahahahahahaha
 Name: ThreadsDL
 
+Package: com.rayhahahahahahaha.threadsdl
+Version: 1.0.0-3+debug
+Architecture: iphoneos-arm64
+Maintainer: Rayhahahahahahaha
+Installed-Size: 176
+Depends: mobilesubstrate
+Filename: ./debs/com.rayhahahahahahaha.threadsdl_1.0.0-3+debug_iphoneos-arm64.deb
+Size: 10060
+MD5sum: daf6abf46b2ddfd63b6784d3b82e6d48
+SHA1: 0ea8e1e8c46a7c71f0b21e655a41d7e632041077
+SHA256: df5a6e4bba84d01866b285520c5769705f6edb74e28b05b966965c8b0a927ce3
+Section: Tweaks
+Description: Tap & Hold to Download Media in Threads.
+Author: Rayhahahahahahaha
+Name: ThreadsDL
+
 Package: com.rayhahahahahahaha.visionalerts
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm64
